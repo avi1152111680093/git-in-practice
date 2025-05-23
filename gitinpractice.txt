@@ -1,2 +1,3 @@
 This is the first file of this repository.
 This is a new change
+Changed after taking clone in different directory
